@@ -1,4 +1,4 @@
-Why is it a good use of version control (Git/Github)?
+Why is it a good use of version control?
 
 Conset2Share’s use of GitHub, for version control is a good use case for numerous reasons. Consent2Share uses GitHub mostly for the software code. Using GitHub, helps Conset2Share improve its software code with contributions and collaborations from other coders while being open source code project. Consent2Share of course, ultimately decides which patches (contributions) to merge. But it does help to improve the code, rectify bugs in the code. This enables Conset2Share to continue to improve their code, to improve the website for the patients / providers using Conset2Share.
 
